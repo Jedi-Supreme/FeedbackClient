@@ -5,25 +5,10 @@ import android.content.SharedPreferences;
 import android.support.design.widget.Snackbar;
 import android.view.View;
 
-import java.text.SimpleDateFormat;
-import java.util.Calendar;
-import java.util.Locale;
-
 public class common {
 
     public static final Boolean GOOD_REVIEW = true;
     public static final Boolean BAD_REVIEW = false;
-
-    public static String time_to_date(String timeMillis){
-
-        Calendar calendar = Calendar.getInstance();
-
-        calendar.setTimeInMillis(Long.parseLong(timeMillis));
-
-        SimpleDateFormat simpleDateFormat = new SimpleDateFormat("dd-MMM-yyyy", Locale.getDefault());
-
-        return  simpleDateFormat.format(calendar.getTime());
-    }
 
     public static Snackbar Mysnackbar(View parent_view, String message, int lenght) {
 
