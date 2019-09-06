@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="normal_text">12sp</dimen>
+    <dimen name="margin_small">10dp</dimen>
+    <dimen name="margin_tiny">5dp</dimen>
+    <dimen name="activity_padding">10dp</dimen>
+    <dimen name="large_text">25sp</dimen>
+    <dimen name="med_text">15sp</dimen>
+    <dimen name="margin_large">35dp</dimen>
+    <dimen name="emoji_dim">250dp</dimen>
+</resources>

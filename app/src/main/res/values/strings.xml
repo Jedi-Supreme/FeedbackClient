@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Feedback Client</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="dash_b">Dashboard</string>
+    <string name="branch_name_in_lbl">Branch Name</string>
+    <string name="conf_pass">Confirm Password</string>
+    <string name="new_pass">New Password</string>
+    <string name="entp_name_in_lbl">Company Name</string>
+    <string name="loading_lbl">Loading…</string>
+    <string name="settings_lbl">Settings</string>
+    <string name="report_lbl">Reports</string>
+    <string name="logout">Logout</string>
+    <string name="positive_feedback_lbl">Positive feedback</string>
+    <string name="survey_qn">How was your experience at our facility today?</string>
+</resources>
